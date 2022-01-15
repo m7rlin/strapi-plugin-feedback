@@ -1,0 +1,25 @@
+{
+  "name": "strapi-plugin-menus",
+  "version": "0.1.0",
+  "description": "Strapi plugin (v4) for navigation menus.",
+  "strapi": {
+    "name": "strapi-plugin-menus",
+    "description": "Strapi plugin (v4) for navigation menus.",
+    "kind": "plugin"
+  },
+  "dependencies": {},
+  "homepage": "www.magictm.com",
+  "author": {
+    "name": "Marcin m7rlin Stawowczyk"
+  },
+  "maintainers": [
+    {
+      "name": "Marcin m7rlin Stawowczyk"
+    }
+  ],
+  "engines": {
+    "node": ">=12.x. <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
