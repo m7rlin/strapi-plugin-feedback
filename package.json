@@ -1,11 +1,11 @@
 {
-    "name": "strapi-plugin-menus",
+    "name": "strapi-plugin-feedback",
     "version": "0.1.0",
-    "description": "Strapi plugin (v4) for navigation menus.",
+    "description": "Strapi plugin (v4) for feedback system.",
     "strapi": {
-        "name": "menus",
-        "displayName": "Navigation Menus",
-        "description": "Add navigation menus.",
+        "name": "feedback",
+        "displayName": "Feedback",
+        "description": "Add feedback system.",
         "kind": "plugin"
     },
     "dependencies": {},
@@ -19,8 +19,8 @@
         }
     ],
     "engines": {
-        "node": ">=12.x. <=16.x.x",
-        "npm": ">=6.0.0"
+        "node": ">=12.x. <=18.x.x",
+        "npm": ">=8.0.0"
     },
     "license": "MIT"
 }
